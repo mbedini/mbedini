@@ -1,5 +1,5 @@
 #### Hi, I'm Marco! I'm a cognitive neuroscientist by training with a passion for GNU/Linux and FOSS. 
-###### This account is mainly devoted to releasing contributions from my academic projects and the data/code associated with my articles in the spirit of open science.
+##### This account is mainly devoted to releasing contributions from academic projects and the data/code associated with my articles in the spirit of open science.
 
 - 🔭 I’m currently working on publishing the last chapter of my PhD thesis (preprint here: https://doi.org/10.1101/2024.03.21.585573) and preparing postdoc applications
 - 🌱 I’m learning SQL and other data engineering skills

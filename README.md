@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with wrapping up an open science project using MNE-Python (MEG experts welcome)
 - 💬 Ask me about books, music (at your own risk)
 - 📫 How to reach me: marco.bedini@univ-amu.fr
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Marseille is North of Boston
 
 <!--
 **mbedini/mbedini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

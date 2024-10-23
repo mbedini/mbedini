@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on all kinds of neuroimaging projects
 - 🤔 I’m looking for help with wrapping up an open science project using MNE-Python (MEG experts welcome)
 - 💬 Ask me about books, music (at your own risk)
-- 📫 How to reach me: marco.bedini.cimec.unitn@gmail.com
+- 📫 How to reach me: marco.bedini@univ-amu.fr
 - ⚡ Fun fact: ...
 
 <!--

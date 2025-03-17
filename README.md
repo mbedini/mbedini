@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on resting-state fMRI data
 - 🌱 I’m re-learning French
 - 👯 I’m looking to collaborate on all kinds of neuroimaging projects
-- 🤔 I’m looking for help with wrapping up an open science project using MNE-Python (MEG experts welcome)
+- 🤔 I’m looking for help with wrapping up this project (MEG experts welcome): https://github.com/mbedini/Reproducible-workflow_HCP-MEG
 - 💬 Ask me about books, music (at your own risk)
 - 📫 How to reach me: marco.bedini@univ-amu.fr
 - ⚡ Fun fact: Marseille is North of Boston
